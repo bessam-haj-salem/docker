@@ -1,0 +1,15 @@
+
+now : https://www.youtube.com/watch?v=p28piYY_wv8&ab_channel=Amigoscode
+time: 1.17.48
+
+install docker :
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-fr
+
+registry of images :
+https://hub.docker.com/
+
+
+building image documentation :
+https://docs.docker.com/engine/reference/builder/
+
+
